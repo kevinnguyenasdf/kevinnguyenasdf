@@ -17,4 +17,8 @@
 <div align = "center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinnguyenasdf&show_icons=true&locale=en&theme=dark" alt="kevinnguyenasdf" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinnguyenasdf&theme=dark" alt="kevinnguyenasdf" /></p>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnguyenasdf&layout=compact&theme=dark" alt="kevinnguyenasdf's most used languages" />
+</p>
+
 </div>
