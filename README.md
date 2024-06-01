@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long Nguyen</h1>
 <h3 align="center">Seeking jobs/internships as a new grad.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinnguyenasdf&label=Profile%20views&color=0e75b6&style=flat" alt="kevinnguyenasdf" /> </p>
-
 - 👨‍💻 All of my projects are available at [kevinnguyen-portfolio.com](kevinnguyen-portfolio.com)
 
 - 📫 How to reach me **longnguyendev@gmail.com**
