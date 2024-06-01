@@ -15,4 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinnguyenasdf&show_icons=true&locale=en&theme=dark" alt="kevinnguyenasdf" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinnguyenasdf&" alt="kevinnguyenasdf" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinnguyenasdf&theme=dark" alt="kevinnguyenasdf" /></p>
+
