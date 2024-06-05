@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [kevinnguyen-portfolio.com](kevinnguyen-portfolio.com)
 
-- 📫 How to reach me **longnguyendev@gmail.com**
+- 📫 How to reach me **lngnguyendev@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
