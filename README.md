@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kevin Nguyen</h1>
-<h3 align="center">Seeking jobs/internships as a new grad.</h3>
 
 - 👨‍💻 All of my projects are available at [kevinnguyen-portfolio.com](kevinnguyen-portfolio.com)
 
